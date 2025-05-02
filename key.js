@@ -1,0 +1,2 @@
+//API KEY FROM OMDB API WEBSITE
+key="b4fae25b";
